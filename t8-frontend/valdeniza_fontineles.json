@@ -1,0 +1,106 @@
+{
+    "nome_completo":"Valdeniza Fontineles Barroso da Silva",
+    "o_que_eu_quero":"Desenvolvedora Front-End",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/deniza-fontineles-5ab97913b/",
+    "link_github":"https://github.com/denizafontineles",
+    "email": "valdenizafontineles@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Trabalhei com atendimento ao público em pequenos comércios desde muito cedo. Devido ao meu bom desmpenho, fui chamada por um cliente para trabalhar com ele manuseando máquinas operacionais em metalúrgicas, além de auxiliar no controle de produção. Neste período iniciei o curso em Técnico de Administração, pela ETEC, e fui promovida para a área administativa da empresa. O fato da empresa não oferecer um plano de carreira, gerou em mim uma frustração e após ser apresentada à Tecnologia da Informação, me interessei muito pela área e pelo crescimento pessoal que ela pode me oferecer.",
+        "Comecei então a pesquisar por cursos gratuitos e conheci a Estação Hack. Lá fiz o curso da Mastertech e logo em seguida, para solidificar meus conhecimentos, ingressei no Bootcamp de Desenvolvimento Front-end da {reprograma}.",
+        "Percebi que minha jornada anterior ao ingresso no mundo da TI me ajudou muito a crescer, pois  foi quando aprendi a organizar arquivos, a criatividade para resolver problemas, desenvolvi facilidade no atendimento aos clientes e para me comunicar com as pessoas, procurando saber suas necessidades. Desenvolvi também boa capacidade analítica, aprendi a me impor como mulher e profissional capaz, a trabalhar de forma empenhada para o crescimento da empresa e a buscar sempre por conhecimento e a compartilhá-los com meus pares, me tornando, assim, uma desenvolvedora diferenciada no mercado de trabalho"
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Produção",
+            "empresa":"Tornearia Coronado",
+            "periodo":"Jan/2017 a Dez/2018",
+
+            "atividades_desenvolvidas": "Buscando novas experiências, aceitei o desafio de aprender a manuseiar máquinas operacionais na Tornaria Coronado, uma metalúrgica conceituada fazendo montagem e levantamento de custos das mercadorias fabricadas utilizando ferramentas para controle de produção auxiliando em toda produção da empresa, onde obtive diversos aspectos de controle e liderança.",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Balconista",
+            "empresa":"Fart-Pães",
+            "periodo":"Jan/2017 a Dez/2018",
+            "atividades_desenvolvidas": "Atendimento direto ao cliente e telefônico, organização, vendas e controle de estoque No início da minha tragetória, trabalhei com atendimento ao público na Fart Pães, uma padaria reconhecida por sua qualidade em atendimento.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Web - Front-End",
+            "instituicao":"Reprograma",
+            "periodo":"704 horas",
+            "resumo_conhecimentos_aprendidos": 
+            "Participei do curso da Reprograma patrocinada pelo Facebook, 18 semanas, integral e intensivo para formação de desevolvedoras front-end. Onde foram abordados as seguintes tecnologias: UX Design, Metodologias ágeis, Lógica de programação, HTML, CSS, JavaScript, JQuery, React, Sass, Bootstrap, Git, Github e Projetos práticos."
+        },
+
+        {
+            "curso": "Técnico em Administração",
+            "instituicao":"ETEC de Guaianazes",
+            "periodo":"3 semestres",
+            "resumo_conhecimentos_aprendidos": "Todo conceito de empreendedorismo, executando atividades administrativas e coordenando equipes, no nível operacional, dos setores de produção e serviços, na elaboração do planejamento e materiais, recursos humanos, financeiros e mercadológicos."
+        },
+
+        {
+            "curso": "Desenvolvimento Web - Full-Stack",
+            "instituicao":"Mastertech",
+            "periodo":"180 horas",
+            "resumo_conhecimentos_aprendidos": [ 
+            "Participei do curso da Mastertech patrocinado pelo facebook, com duração de 180 horas, tivemos uma base completa de Front-end e Back-end com as seguintes tecnologias: HTML, CSS, GIT e Github, responsividade, lógica de programação, JavaScript/HTML e DOM, orientação a objetos,introdução a Python, arquitetura Web/Protocolo HTTP, introdução a banco de dados/Django."
+            ]
+        },
+
+        {
+            "curso": "Nutrição",
+            "instituicao":"Universidade Cruzeiro do Sul",
+            "periodo":"4 semestres",
+            "resumo_conhecimentos_aprendidos": [ 
+            "Pela admiração por vigilância sanitária e a área da saúde, terminando o ensino médio ingressei na graduação do curso de Nutrição. Onde aprendi a elaborar diagnóstico nutricional dos pacientes, prescrever dietas e suplementos nutricionais para pessoas sadias ou com problemas de saúde, fazer controle de qualidade dos alimentos em restaurantes e refeitórios e desenvolver e avaliar produtos que possam ser utilizados na alimentação humana.",
+            "Mas estive em uma posição de problemas financeiros que me influenciaram a trancá-lo. Hoje em dia tenho novos objetivos de carreira, que é seguir a área de tecnologia, assim, pretendo fazer uma graduação em Análise de desenvolvimento de Sistemas."
+            ]
+        }
+
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Voluntariado nos eventos da Programaria",
+            "instituicao":"Programaria",
+            "resumo_conhecimentos_interesses": "Sou voluntária nos eventos da Programaria que tem como objetivo inclusão de mulheres na tecnologia. O mais recente durou 12 horas horas com diversas atividades abordando toda base de Front-End e Back-End, fiquei no crendeciamento e apoio ao auditório."
+        },
+
+        {
+            "interesse_evento_curso": "Coordenadora no evento do Nerdzão",
+            "instituicao":"Itaú",
+            "resumo_conhecimentos_interesses": "Participei como coordenadora na organização do evento sediado no Cubo do Itaú com o tema 'Dealing with Java', abordando toda base da linguagem de programação Java."
+        },
+
+        {
+            "interesse_evento_curso": "Estação de Programação",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "Com o projeto de ensinar em um final de semana programação criando seu primeiro site, Mastertech fornece em 16 horas um curso que abrange toda introdução á programação, entendendo melhor como funciona a lógica de programação com as linguagens da web: HTML, CSS e JavaScript."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7}
+    ]
+}
